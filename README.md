@@ -35,3 +35,21 @@ bloom.Intensity = 1.5
 bloom.Size = 24
 bloom.Threshold = 0.8
 bloom.Parent = Lighting
+```
+```
+# Pre-Made 1-5
+
+## Pre-Made 1
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhkai4212/1.1/refs/heads/main/1.1"))()
+
+## Pre-Made 2
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhkai4212/2.1/refs/heads/main/2.1"))()
+
+## Pre-Made 3
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhkai4212/3.1/refs/heads/main/3.1"))()
+
+## Pre-Made 4
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhkai4212/4.1/refs/heads/main/4.1"))()
+
+## Pre-Made 5
+loadstring(game:HttpGet("https://raw.githubusercontent.com/uhkai4212/5.1/refs/heads/main/5.1"))()
